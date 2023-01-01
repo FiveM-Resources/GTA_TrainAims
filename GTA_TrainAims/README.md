@@ -1,2 +1,2 @@
-# GTA_PortesVerrouiller
- Permet de vérrouiller des portes avec code/permission
+# GTA_TrainAims
+This script allows the player to practice aiming by shooting at the target.
